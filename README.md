@@ -100,7 +100,7 @@ are resolved by stable image and group identifiers. Global floors and bridge
 thresholds are computed once per run and remain fixed during greedy merging.
 
 The reference IQ-OTH run contains 1,097 images and produces 208 strict seed
-groups followed by 84 accepted merges, yielding 124 final groups. Its computed
+groups, yielding 120 final groups(including 8 singletons). Its computed
 thresholds and counts are stored in
 [`results/iq_oth_summary.json`](results/iq_oth_summary.json).
 
