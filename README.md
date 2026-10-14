@@ -1,4 +1,4 @@
-# DINOv2 Patch Grouping
+# lung-ct-pseudo-group-reconstruction
 
 This repository groups visually related images from same-position DINOv2 patch
 features. It contains the complete path from an image manifest to pairwise
