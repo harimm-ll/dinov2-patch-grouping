@@ -1,22 +1,46 @@
-MIT License
+ACADEMIC REVIEW LICENSE
+Copyright (c) 2026. All Rights Reserved.
 
-Copyright (c) 2026
+This software, including its source code, documentation, data, and any
+associated files (collectively, "the Software"), is made available solely
+for the purpose of academic peer review, conference review, journal review,
+or thesis examination related to the accompanying paper.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+1. PERMITTED USE
+   You may view, read, and evaluate the Software solely for the academic
+   review purpose described above. You may make temporary local copies
+   only as necessary to conduct that review.
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+2. PROHIBITED USE
+   Without the express prior written permission of the copyright holder,
+   you may NOT:
+   a) use, copy, modify, merge, publish, distribute, sublicense, or sell
+      the Software or any derivative thereof;
+   b) use the Software for any commercial purpose;
+   c) use the Software for any non-review academic purpose, including but
+      not limited to research, teaching, or publication;
+   d) use the Software, in whole or in part, for the training, fine-tuning,
+      evaluation, benchmarking, or improvement of any artificial
+      intelligence or machine learning model;
+   e) scrape, crawl, ingest, or otherwise collect the Software by any
+      automated system for the purpose of building, augmenting, or
+      commercializing a dataset, corpus, or model;
+   f) share, upload, or transmit the Software to any third party, platform,
+      or service, including AI analysis tools, without the express prior
+      written permission of the copyright holder.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+3. NO WARRANTY
+   THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS
+   OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+   MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
+   IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY
+   CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT,
+   TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE
+   SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
+4. TERMINATION
+   Any violation of the terms above automatically terminates the permission
+   granted under this License.
+
+For permissions beyond the scope of this License, contact:
+[你的邮箱]
