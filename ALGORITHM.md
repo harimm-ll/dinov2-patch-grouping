@@ -67,14 +67,5 @@ Candidate group pairs are processed in a deterministic order. After each accepte
 
 The resulting connected components define the final reconstructed pseudo-groups.
 
-### 5. Output
-
-The reconstruction pipeline produces the final pseudo-group assignment for every image.
-
-The corresponding assignments used in the manuscript are provided under:
-
-```text
-results/pseudo_group_assignments/
-```
 
 Detailed parameter settings are reported in the manuscript and supplementary material.
